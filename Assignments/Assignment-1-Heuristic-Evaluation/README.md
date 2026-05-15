@@ -52,13 +52,12 @@ Good luck 🙌
 |---|-------|-----------|----------|
 | 1 | Unclear login access | Recognition Rather Than Recall | 3 |
 | 2 | Poor visual hierarchy | Aesthetic and Minimalist Design | 3 |
-| 3 | Unclear icons & controls | Match Between System and Real World | 2 |
-| 4 | Inconsistent navigation placement | Consistency and Standards | 2 |
-| 5 | Duplicate & broken login buttons | Consistency and Standards | **4** |
-| 6 | No first-time user guidance | Help and Documentation | 3 |
-| 7 | Duplicate language selectors | Consistency and Standards | 2 |
-| 8 | Long unreadable course names | Aesthetic and Minimalist Design | 2 |
-| 9 | Unclear submission confirmation | Visibility of System Status | 3 |
+| 3 | Inconsistent navigation placement | Consistency and Standards | 2 |
+| 4 | Duplicate & broken login buttons | Consistency and Standards | **4** |
+| 5 | No first-time user guidance | Help and Documentation | 3 |
+| 6 | Duplicate language selectors | Consistency and Standards | 2 |
+| 7 | Long unreadable course names | Aesthetic and Minimalist Design | 2 |
+| 8 | Unclear submission confirmation | Visibility of System Status | 3 |
 
 ---
 
