@@ -1,19 +1,26 @@
-# HCI Heuristic Evaluation Report — ITC Website
+# 🎓 HCI Heuristic Evaluation Report — ITC Website
 
 > **COMP322 · Human-Computer Interaction · Assignment 1**
-> Submitted by: Ramzi Abu Falah | ID: 1230594
+> **Submitted by:** Ramzi Abu Falah
+> **Student ID:** 1230594
 
 ---
 
-## Overview
+## 📌 Overview
 
-This folder contains my individual heuristic evaluation report for the ITC Website at Birzeit University.
+This folder contains my individual **Heuristic Evaluation Report** for the **ITC Website at Birzeit University**.
 
-The evaluation applies **Nielsen’s 10 Usability Heuristics** to identify usability problems in the website interface. Each documented violation includes the violated heuristic, a description of the problem, a severity rating, an annotated screenshot, and a specific suggested design fix.
+The evaluation applies **Nielsen’s 10 Usability Heuristics** to identify real usability problems in the website interface. Each documented violation includes:
+
+* The violated heuristic
+* A clear problem description
+* A severity rating
+* An annotated screenshot
+* A specific and feasible design fix
 
 ---
 
-## Folder Structure
+## 📁 Folder Structure
 
 | Folder                | Description                                                 |
 | --------------------- | ----------------------------------------------------------- |
@@ -23,7 +30,7 @@ The evaluation applies **Nielsen’s 10 Usability Heuristics** to identify usabi
 
 ---
 
-## Report Files
+## 📄 Report Files
 
 | File                                     | Description                         |
 | ---------------------------------------- | ----------------------------------- |
@@ -32,7 +39,7 @@ The evaluation applies **Nielsen’s 10 Usability Heuristics** to identify usabi
 
 ---
 
-## Violations Covered
+## 🔍 Violations Covered
 
 | # | Issue                              | Heuristic                       | Severity |
 | - | ---------------------------------- | ------------------------------- | -------- |
@@ -47,9 +54,32 @@ The evaluation applies **Nielsen’s 10 Usability Heuristics** to identify usabi
 
 ---
 
-## Academic Integrity Note
+## 🧠 Skills Demonstrated
+
+This assignment demonstrates the ability to:
+
+* Apply Nielsen’s usability heuristics to a real system
+* Identify and document interface usability violations
+* Justify severity ratings based on user impact
+* Suggest practical design improvements
+* Present findings in a clear academic UX report
+
+---
+
+## ⚖️ Academic Integrity Note
 
 This repository is shared for documentation and learning purposes only.
-Please do not copy or submit this work as your own. Use it only as a reference for understanding how a heuristic evaluation report can be structured.
+
+Please do **not** copy or submit this work as your own. Use it only as a reference to understand how a heuristic evaluation report can be structured.
+
+---
+
+## 🌱 Course Context
+
+This assignment was completed as part of:
+
+**COMP322 — Human-Computer Interaction**
+Birzeit University
+Second Semester 2025/2026
 
 ---
